@@ -1,4 +1,15 @@
 #labels Phase-Support
+E1.60a
+            －增加防御功能
+
+            －UI的变化
+
+            －修正几处bugs
+
+            －调整战列舰生产资源  
+
+            －战斗报告换成中文（感谢la0wang@gmail.com）
+
 E1.52c
             －修正几个bugs
            
