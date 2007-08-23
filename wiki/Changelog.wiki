@@ -1,4 +1,13 @@
 #labels Phase-Support
+E1.80b 
+            －修正注册的时候随机生成主星位置的bug（感谢shadowfang提出）
+
+            －修正注册的时候随机生成英雄和NPC的bug（感谢shadowfang提出）
+
+            －修正太卫不能用来造月的bug（感谢qqqq提出）
+
+            －修正资源过多出现负数的问题（感谢killzl提出）
+
 E1.80a
             －新的速度高潮：最高200X
 
