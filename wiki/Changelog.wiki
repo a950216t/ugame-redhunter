@@ -1,6 +1,7 @@
 #labels Phase-Support
 E1.82a
             －新增克隆技术（可以快速爆船和防御）
+
             －主星方圆增大
 
 E1.81b
