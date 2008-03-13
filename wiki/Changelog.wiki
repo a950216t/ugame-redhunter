@@ -1,6 +1,6 @@
 #labels Phase-Support
 UGame.exe
-~~~~~~~~~~
+
 E1.90b 
             －增加程序的安全性和健壮性
 
