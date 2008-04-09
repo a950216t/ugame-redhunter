@@ -6,6 +6,8 @@ E1.92a
 
             -UI modification for wide screen displayer
 
+           -Cloned technology changed
+
             -fix some bugs
 
 E1.91a 
