@@ -1,6 +1,13 @@
 #labels Phase-Support
 UGame.exe
 
+E1.92a 
+            -Begin to support Endlish language version
+
+            -UI modification for wide screen displayer
+
+            -fix some bugs
+
 E1.91a 
             －电脑单舰种最大值为：100万亿
 
